@@ -1,9 +1,9 @@
 body{
-    background-color: cadetblue;
-    color: darkblue;
+    background-color: rgb(57, 80, 133);
+    color: black;
 }
 
-h1, h2{
+h1, h2, p{
     text-align: center;
 }
 
