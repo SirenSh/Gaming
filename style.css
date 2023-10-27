@@ -1,5 +1,7 @@
 body{
-    background-color: rgb(57, 80, 133);
+    height: 100%;
+    background-color: burlywood;
+    font-weight: bold;
     color: black;
 }
 
